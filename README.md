@@ -1,5 +1,5 @@
-# COVID19-Dashboard
-Analysis of COVID19 Cases, Deaths, and Vaccination Rates Based on 2016 Election Vote
+# COVID-19 Dashboard
+Analysis of COVID-19 Cases, Deaths, and Vaccination Rates Based on 2016 Election Vote
 
 This python file creates a dashboard using Dash allowing the user to view daily and monthly rates. File is connected to CDC COVID-19 case, death, and vaccination data so will be up to date when re-run.
 
